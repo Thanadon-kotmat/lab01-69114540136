@@ -1,0 +1,6 @@
+python3 --version
+git --version
+git config --global user.name "Thanadon-kotmat"
+git config --global user.email "thanadol.ko.69@ubu.ac.th"
+git clone https://github.com/Thanadon-kotmat/lab01-69114540136.git
+touch main.py
